@@ -7,7 +7,7 @@ import HeroOverlayMarquee from '@/components/sections/hero/HeroOverlayMarquee';
 import MetricsIconCards from '@/components/sections/metrics/MetricsIconCards';
 import TeamOverlayCards from '@/components/sections/team/TeamOverlayCards';
 import TestimonialColumnMarqueeCards from '@/components/sections/testimonial/TestimonialColumnMarqueeCards';
-import { Award, CheckCircle, MapPin, Star, User } from "lucide-react";
+import { CheckCircle, MapPin, Star } from "lucide-react";
 import SectionErrorBoundary from "@/components/ui/SectionErrorBoundary";
 
 export default function HomePage() {
